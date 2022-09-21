@@ -46,4 +46,5 @@ Currently, I reside in Hong Kong, and looking for potential work opportunities i
 📈 [Stock Finder](https://github.com/ArturAronov/stock-finder) <br/>
 ⏲ [Pomodoro Clock](https://github.com/ArturAronov/pomodoro-clock) <br/>
 🕵🏻‍♂️ [GitHub Profile Finder](https://github.com/ArturAronov/github-finder) <br/>
-🧮 Calculator App
+🧮 [Calculator App](https://github.com/ArturAronov/calculator)<br/>
+🦖 [Chrome Dino Game](https://github.com/ArturAronov/project1-dinosaur-game)<br/>
