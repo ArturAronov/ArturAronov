@@ -13,7 +13,7 @@
  ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═════╝
 </pre>
 
-## Howdy 👋🏼
+##  👋🏼 Howdy!
 My name is Artur, a full stack web developer who loves JavaScript / Node. In my previus career, I was managing wine programs for restaurant groups and 5 start hotels.
 
 I pursued coding as a hoppy in late 2020, and decided to sign up for a [H-Academy](https://academy.happyer.io/) bootcamp that is curated by [Denis Cheung](https://github.com/dshcheung).
@@ -38,7 +38,12 @@ Currently, I reside in Hong Kong, and looking for potential work opportunities i
   <img src="https://img.shields.io/badge/-PrismIO-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="PrismaIO"/>
 </div>
 
-## Github Stats
+##  📈 Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arturaronov&layout=compact&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
 
-## C++ Algorithms
+## 💕 Favorite Projects
+🐦 [Twitter Clone](https://github.com/ArturAronov/twitter-clone)
+📈 [Stock Finder](https://github.com/ArturAronov/stock-finder)
+⏲ [Pomodoro Clock](https://github.com/ArturAronov/pomodoro-clock)
+🕵🏻‍♂️ [GitHub Profile Finder](https://github.com/ArturAronov/github-finder)
+🧮 Calculator App
