@@ -42,8 +42,8 @@ Currently, I reside in Hong Kong, and looking for potential work opportunities i
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arturaronov&layout=compact&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💕 Favorite Projects
-🐦 [Twitter Clone](https://github.com/ArturAronov/twitter-clone)
-📈 [Stock Finder](https://github.com/ArturAronov/stock-finder)
-⏲ [Pomodoro Clock](https://github.com/ArturAronov/pomodoro-clock)
-🕵🏻‍♂️ [GitHub Profile Finder](https://github.com/ArturAronov/github-finder)
+🐦 [Twitter Clone](https://github.com/ArturAronov/twitter-clone) <br/>
+📈 [Stock Finder](https://github.com/ArturAronov/stock-finder) <br/>
+⏲ [Pomodoro Clock](https://github.com/ArturAronov/pomodoro-clock) <br/>
+🕵🏻‍♂️ [GitHub Profile Finder](https://github.com/ArturAronov/github-finder) <br/>
 🧮 Calculator App
