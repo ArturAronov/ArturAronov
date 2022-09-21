@@ -38,7 +38,7 @@ Currently, I reside in Hong Kong, and looking for potential work opportunities i
   <img src="https://img.shields.io/badge/-PrismIO-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="PrismaIO"/>
 </div>
 
-## JavaScript Algorithms
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arturaronov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## Github Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arturaronov&layout=compact&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
 
 ## C++ Algorithms
