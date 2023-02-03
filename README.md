@@ -30,5 +30,5 @@
   <img src="https://img.shields.io/badge/-PrismIO-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="PrismaIO"/>
 </div> -->
 
-##  📈 Github Stats
+<!-- ##  📈 Github Stats -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arturaronov&layout=compact&theme=gruvbox_light)](https://github.com/anuraghazra/github-readme-stats)
